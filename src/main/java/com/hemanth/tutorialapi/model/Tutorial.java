@@ -52,6 +52,6 @@ public class Tutorial {
 
   @Override
   public String toString() {
-    return "Tutorial [id=" + id + ", title=" + title + ", desc=" + description + ", published=" + published + ",published=\" + published + \"]";
+    return "Tutorial [id=" + id + ", title=" + title + ", desc=" + description + ", published=" + published + "]";
   }
 }
