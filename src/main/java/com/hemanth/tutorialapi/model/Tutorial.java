@@ -49,6 +49,7 @@ public class Tutorial {
   public void setPublished(boolean isPublished) {
     this.published = isPublished;
   }
+  //new code
 
   @Override
   public String toString() {
