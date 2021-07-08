@@ -49,7 +49,7 @@ public class Tutorial {
   public void setPublished(boolean isPublished) {
     this.published = isPublished;
   }
-  //new code
+  //new code delete
 
   @Override
   public String toString() {
