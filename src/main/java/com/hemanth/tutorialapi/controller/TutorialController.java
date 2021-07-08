@@ -15,7 +15,7 @@ import com.hemanth.tutorialapi.model.Tutorial;
 
 
 
-@CrossOrigin(origins = "http://localhost:8081")
+@CrossOrigin(origins = "http://localhost:4200")
 @RestController
 @RequestMapping("/api")
 public class TutorialController {
